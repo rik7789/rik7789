@@ -22,10 +22,10 @@ Outside of code, I lead a student tutoring organization, write and read for fun,
 
 ### 🛠️ Featured Projects
 
-#### 🏋️ [FullForm](https://github.com/rik7789)
+#### 🏋️ [FullForm](https://fullform-phi.vercel.app/))
 AI-powered exercise form analysis tool, full-stack app using **Flask + React (Vite)**, with real-time pose estimation via **MediaPipe** to extract body landmarks frame by frame. Uses vector math to calculate joint angles, detect improper form (squat depth, curl range of motion), and overlays live feedback onto the processed video using **OpenCV**. Frontend and backend are unified into a single deployable service.
 
-#### 🥫 [Clarity](https://github.com/rik7789)
+#### 🥫 [Clarity](https://clarityzip--rithwiklolwhoca.replit.app/))
 A full stack ingredient scanner that uses the **Gemini LLM API** to classify food and cosmetic ingredients against harmful chemical, dietary, and religious restriction criteria. Includes custom prompt engineering to reduce misclassification of ambiguous ingredients, secure auth with persisted user preference profiles, and evaluation of LLM output against ground truth safety data to reduce false negatives.
 
 ---
