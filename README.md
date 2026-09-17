@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I'm a builder who likes turning ideas into working software — usually at the intersection of AI, computer vision, and real-world usability problems. This fall I'm starting a dual degree in **Computer Science** (Waterloo) and **Business Administration** (Laurier), and I like combining technical execution with a product/business lens.
+I'm a builder who likes turning ideas into working software, usually at the intersection of AI, computer vision, and real-world usability problems. This fall I'm starting a dual degree in **Computer Science** (Waterloo) and **Business Administration** (Laurier), and I like combining technical execution with a product/business lens.
 
 Outside of code, I lead a student tutoring organization, write and read for fun, and I'm always looking for the next problem worth solving.
 
@@ -23,10 +23,10 @@ Outside of code, I lead a student tutoring organization, write and read for fun,
 ### 🛠️ Featured Projects
 
 #### 🏋️ [FullForm](https://github.com/rik7789)
-AI-powered exercise form analysis tool — full-stack app using **Flask + React (Vite)**, with real-time pose estimation via **MediaPipe** to extract body landmarks frame-by-frame. Uses vector math to calculate joint angles, detect improper form (squat depth, curl range of motion), and overlays live feedback onto the processed video using **OpenCV**. Frontend and backend are unified into a single deployable service.
+AI-powered exercise form analysis tool, full-stack app using **Flask + React (Vite)**, with real-time pose estimation via **MediaPipe** to extract body landmarks frame by frame. Uses vector math to calculate joint angles, detect improper form (squat depth, curl range of motion), and overlays live feedback onto the processed video using **OpenCV**. Frontend and backend are unified into a single deployable service.
 
 #### 🥫 [Clarity](https://github.com/rik7789)
-A full-stack ingredient scanner that uses the **Gemini LLM API** to classify food and cosmetic ingredients against harmful chemical, dietary, and religious restriction criteria. Includes custom prompt engineering to reduce misclassification of ambiguous ingredients, secure auth with persisted user preference profiles, and evaluation of LLM output against ground-truth safety data to reduce false negatives.
+A full stack ingredient scanner that uses the **Gemini LLM API** to classify food and cosmetic ingredients against harmful chemical, dietary, and religious restriction criteria. Includes custom prompt engineering to reduce misclassification of ambiguous ingredients, secure auth with persisted user preference profiles, and evaluation of LLM output against ground truth safety data to reduce false negatives.
 
 ---
 
