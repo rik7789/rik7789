@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithwik Chawla</h1>
-<h3 align="center">Incoming CS + BBA Student @ University of Waterloo & Wilfrid Laurier University</h3>
+<h3 align="center">CS + BBA Student @ University of Waterloo & Wilfrid Laurier University</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rithwik-chawla-9809a4177/">
